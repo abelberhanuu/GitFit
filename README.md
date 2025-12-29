@@ -1,65 +1,34 @@
-# FitAI - AI-Powered Fitness Assistant
+# GitFit — AI Fitness Planning Tool
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-✔-blue.svg)
-![ShadCN](https://img.shields.io/badge/ShadCN-UI-green.svg)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-2.0%20Flash-orange.svg)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-UI-green.svg)
+![Gemini](https://img.shields.io/badge/Gemini-Flash-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## Overview
+## About the Project
 
-**FitAI** is an AI-powered fitness assistant that generates personalized workout and diet plans based on user needs. Using **Gemini AI 2.0 Flash**, it provides intelligent fitness recommendations and allows users to download their plans as PDFs.
+**GitFit** is a web-based fitness assistant that uses AI to create custom workout and nutrition plans. By analyzing user-provided information, the app generates tailored recommendations powered by **Gemini (Flash)** and allows users to export their plans as PDF files.
 
-## Features
+## Key Capabilities
 
-- 🎯 **Personalized Workout Plans** – AI-generated routines tailored to fitness goals.
-- 🥗 **Customized Diet Plans** – Meal plans based on user preferences and dietary needs.
-- 📄 **PDF Export** – Downloadable PDF format for easy access.
-- 🤖 **AI-Powered Suggestions** – Uses **Gemini AI 2.0 Flash** for accurate recommendations.
-- 🎨 **Modern UI** – Built with **ShadCN**, ensuring a sleek and user-friendly experience.
+- 🏋️ **AI-Created Workout Programs** — Training routines generated based on individual goals.
+- 🥗 **Personalized Nutrition Guidance** — Diet suggestions aligned with user preferences.
+- 📄 **PDF Downloads** — Save fitness plans for offline use.
+- 🤖 **Smart Recommendations** — Plans generated using Gemini AI.
+- 🎨 **Clean, Modern Interface** — Built with **shadcn/ui** components.
 
-## Tech Stack
+## Built With
 
-- **Next.js 15** – Server-side rendering and seamless UI/UX.
-- **TypeScript** – Type safety and maintainability.
-- **ShadCN** – Modern UI components.
-- **Gemini AI 2.0 Flash** – AI model for fitness recommendations.
+- **Next.js** — Modern React framework with App Router
+- **TypeScript** — Strong typing and maintainable code
+- **shadcn/ui** — Reusable UI components
+- **Gemini API** — AI-driven plan generation
 
-## Installation
+## Setup Instructions
+
+### 1) Clone the repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/fitness-ai-app.git
-
-# Navigate to the project directory
-cd fitness-ai-app
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
-
-## Usage
-
-1. Open the app and input your fitness details (goals, dietary preferences, fitness level).
-2. AI generates a customized workout and diet plan.
-3. View and adjust the plan as needed.
-4. Download your personalized plan as a PDF.
-
-## API Integration
-
-FitAI utilizes the **Gemini AI 2.0** Flash API to analyze user input and generate optimized plans. Ensure you have API access before running the project.
-
-## Live Demo
-
-🚀 [Try FitAI Live](https://fitness-ai-weld.vercel.app/)
-
-## Contributing
-
-Contributions are welcome! Feel free to **fork** the repo and submit a **pull request**.
-
-## License
-
-This project is licensed under the **MIT License**.
+git clone https://github.com/<your-username>/GitFit.git
+cd GitFit
