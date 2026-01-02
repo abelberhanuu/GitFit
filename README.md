@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-✔-blue.svg)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-UI-green.svg)
 ![Gemini](https://img.shields.io/badge/Gemini-Flash-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ## About the Project
 
